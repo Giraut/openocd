@@ -43,6 +43,9 @@ NOR_DRIVERS = \
 	%D%/lpcspifi.c \
 	%D%/max32xxx.c \
 	%D%/mdr.c \
+	%D%/microsemi_fusion_coreahbnvm.c \
+	%D%/microsemi_smartfusion_envm.c \
+	%D%/microsemi_smartfusion2_envm.c \
 	%D%/msp432.c \
 	%D%/mrvlqspi.c \
 	%D%/niietcm4.c \
